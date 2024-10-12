@@ -28,4 +28,4 @@ cd gitRespondCollab
 
 ## Reporting issue
 
-If you find a bug please create a new issue on Github
+If you find a bug please create a new issue on Github.
